@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- *  main - main function
- *
- *  Return: o on success
+ * * main - main function
+ * * Return: 0 on success
  */
 int main(void)
 {
